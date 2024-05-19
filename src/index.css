@@ -1,0 +1,272 @@
+.box-1 {
+  background-color: black;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image {
+  position: relative;
+  top: 30px;
+  left: 10px;
+}
+
+.photo {
+  border-radius: 100%;
+}
+
+.comp {
+  width: 80%;
+  display: flex;
+}
+
+.inner {
+  margin-left: 10px;
+  margin-top: 30px;
+  width: 60%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.bigbox {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+.box-2 {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  color: blue;
+  flex-wrap: wrap;
+  padding: 1px;
+  font-size: small;
+  width: 70%;
+}
+
+.a {
+  background-color: blueviolet;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+.a:hover {
+  background-color: black;
+}
+
+.parent {
+  display: flex;
+  border: 1px solid gray;
+  flex-wrap: wrap;
+  width: 90%;
+  margin-left: 8px;
+  justify-content: space-between;
+  box-shadow: 10px 5px 5px grey;
+}
+
+.box-3 {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.box-4 {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.box-5 {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.e {
+  font-size: smaller;
+  color: gray;
+  font-weight: bolder;
+  width: 80%;
+}
+
+.con {
+  border: 1px solid gray;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 8px;
+  width: 90%;
+  justify-content: space-between;
+  box-shadow: 10px 5px 5px grey;
+}
+
+.rel1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bolder;
+}
+
+.rel2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon {
+  color: green;
+  margin: 2px;
+}
+
+.a {
+  display: flex;
+}
+
+.b {
+  display: flex;
+}
+
+.c {
+  display: flex;
+}
+
+.d {
+  display: flex;
+}
+
+.k {
+  display: flex;
+}
+
+.f {
+  display: flex;
+}
+
+.sp {
+  display: flex;
+  margin-left: 1%;
+  color: red;
+  width: 100%;
+  flex-wrap: wrap;
+  font-size: smaller;
+  justify-content: space-between;
+  font-weight: bolder;
+  font-size: medium;
+
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.gg {
+
+  width: 80%;
+  color: white;
+  margin-left: 1%;
+  display: flex;
+  flex-wrap: wrap;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+.h {
+  position: relative;
+  top: 3px;
+  color: green;
+}
+
+.ha {
+  position: relative;
+  top: 1px;
+  color: green;
+}
+
+.hello {
+  color: black;
+  font-size: medium;
+  font-weight: 400;
+}
+
+.TP {
+  font-weight: bolder;
+  color: black;
+}
+
+.txt {
+  font-weight: 400;
+  color: gray;
+}
+
+.mark {
+  background-color: rgb(14, 183, 235);
+  height: 40px;
+  width: 4px;
+  display: flex;
+}
+
+.boxing-2 {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.yeh {
+  display: flex;
+  width: 200px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  justify-content: space-around;
+}
+
+.as {
+  width: 20%;
+  display: flex;
+}
+
+.foot {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2%;
+}
+
+.mid {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.bigparent {
+  position: relative;
+  top: 50px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 6px;
+}
+
+.box-10 {
+  display: flex;
+  border: 2px solid green;
+  flex-direction: column;
+  width: 80%;
+}
+
+/*@media only screen and (max-width: 619px){
+  .box-1{
+  height:80vh;
+  }
+  
+}*/
+
+
